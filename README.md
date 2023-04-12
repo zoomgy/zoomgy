@@ -52,7 +52,7 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+  <img src="https://profile-counter.glitch.me/zoomgy/count.svg" />
 </p>
 
 <!-- can't stop myself from editing🤷... -->
